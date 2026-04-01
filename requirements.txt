@@ -1,7 +1,9 @@
 streamlit
 bcrypt
 pandas
-sqlite3
-pickle
-datetime
+scikit-learn
+numpy
+matplotlib
+seaborn
 nltk
+wordcloud
